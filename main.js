@@ -18,7 +18,7 @@ overlay.addEventListener("click", () => {
 
 const data = [
   {
-    src: "../img/Hội.jpg",
+    src: "./img/Hội.jpg",
     name: "Hà Trần Công Hội ",
     class: '( Team Leader__21110771 )',
     description: `Brief educational background: From 2018 to 2021, I had a great time studying in Phan Liem high school. Now, i am a freshman of HCMUTE and I’m proud of it. <br>
@@ -27,11 +27,11 @@ const data = [
     Personality: funny but not a talkative guy.<br>
     "I believe in the saying, 'If you aim at nothing, you're going to hit nothing.' So if you don't set goals, then you have nowhere to go." -- Taylor Lautner
     `,
-    contact_url: 'https://www.facebook.com/profile.php?id=100011583306766'
+    contact_url: 'https://jun-th106.github.io/Cong-Hoi/'
   
   },
   {
-    src: "../img/thanhhieu.png",
+    src: "./img/thanhhieu.png",
     name: "Nguyễn Thành Hiếu",
     class: ' ( Member__21110025 )',
     description: `Brief educational background:from 2018 to 2021, I used to be a student of Nguyen Binh Khiem High school for The Gifted before enrolling
@@ -40,10 +40,10 @@ const data = [
     Skills : Python, HTML, CSS, JS, C++,...<br>
     "To get what you want you have to deserve what you want. The world is not yet a crazy world to reward
     undeserving people" --Charlie Munger <br>`,
-  contact_url : 'http://192.168.1.12:5500/Thanh-Hieu/index.html ' 
+  contact_url : 'https://jun-th106.github.io/Thanh-Hieu/' 
   },
   {
-    src: "../img/Ha.jpg",
+    src: "./img/Ha.jpg",
     name: "Nguyễn Ngọc Hà ",
     class: ' ( Member__21110766 )',
     description: `Brief educational background: I was a student of Hung Vuong Gifted High School during 2018 to 2021. Currently, I’m a first-year student of HCMUTE.
@@ -52,10 +52,10 @@ const data = [
     Personality:  A generous guy. Love spending playing soccer.<br>
     "When you play, play hard; when you work, don't play at all." -- Theodore Roosevelt
     `,
-   
+   contact_url: 'https://jun-th106.github.io/Ngoc-Ha/'
   },
   {
-    src: "../img/truongdo.jpg",
+    src: "./img/truongdo.jpg",
     name: "Đỗ Xuân Trường ",
     class: '( Member__21110101 )',
     description: `Brief educational background: From 2018 to 2021, I used to be a student of Thanh Dong High School and now I’m a freshman at HCMUTE. <br>
@@ -63,7 +63,7 @@ const data = [
     Skills: C, C++, Python, HTML,…. <br>
     Personality: Friendly, easy to make friend with. <br>
     “Challenges are what make life interesting and overcoming them is what makes life meaningful” -- Joshua J.Marine. `,
-   
+   contact_url: 'https://jun-th106.github.io/Truong-Do/'
   },
 ];
 
