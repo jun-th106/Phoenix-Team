@@ -80,7 +80,7 @@ for (let i = 0; i < data.length; i++) {
       <p>
         ${data[i].description}
       </p>
-      <a href=${data[i].contact_url}><i class="fas fa-id-card-alt fa-3x"></i></a>
+      <a href=${data[i].contact_url}><i class="fas fa-id-card-alt fa-2x"></i></a>
      
     </div>
   </div> `;
