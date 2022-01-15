@@ -34,7 +34,7 @@ const data = [
     src: "./img/thanhhieu.png",
     name: "Nguyễn Thành Hiếu",
     class: ' ( Member__21110025 )',
-    description: `Brief educational background:from 2018 to 2021, I used to be a student of Nguyen Binh Khiem High school for The Gifted before enrolling
+    description: `Brief educational background: From 2018 to 2021, I used to be a student of Nguyen Binh Khiem High school for The Gifted before enrolling
     HCMUTE. <br>
     My major : Information of Technology <br>
     Skills : Python, HTML, CSS, JS, C++,...<br>
