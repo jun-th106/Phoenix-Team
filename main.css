@@ -484,7 +484,7 @@ header {
 
 .img-wrapper {
   border-radius: 10px;
-  border: 8px solid rgb(7, 240, 123);
+  border: 8px solid var(--green);
 }
 
 h3 {
@@ -504,7 +504,7 @@ p {
 
 .works__img-wrapper {
   border-radius: 10px;
-  border: 8px solid rgb(7, 240, 123);
+  border: 8px solid var(--green);
 }
 
 .flex {
