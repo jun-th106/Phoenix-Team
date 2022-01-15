@@ -282,7 +282,7 @@ header {
 
 #things h2 {
   text-align: center;
-  color: var(--gray);
+  color: var(--green);
   margin-bottom: 3em;
 }
 
@@ -363,7 +363,7 @@ header {
 
 #works h2 {
   text-align: center;
-  color: var(--gray);
+  color: var(--green);
 }
 
 .works__dec {
